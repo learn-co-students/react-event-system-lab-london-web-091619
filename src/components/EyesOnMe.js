@@ -1,7 +1,7 @@
 // Code EyesOnMe Component Here
 import React, {Component} from 'react';
 
-class EyesOnMe extends Component (){
+class EyesOnMe extends Component {
  eyeFocus () { 
      console.log('Good!')
  }
